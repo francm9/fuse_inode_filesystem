@@ -1,4 +1,3 @@
-# DSOA2023_inode_fs
 # Compilacion
 ```
 make -f Makefile_format fichero=nombre_fichero
